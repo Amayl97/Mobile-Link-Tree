@@ -56,7 +56,7 @@ You can easily customize the project by:
 
 ## 📸 Preview
 
-![Uploading Screenshot 2026-07-23 at 11.03.48 PM.png…]()
+<img width="1440" height="900" alt="Screenshot 2026-07-23 at 11 05 17 PM" src="https://github.com/user-attachments/assets/57f8dad2-3c02-4c75-ac0d-6db035ea2d3c" />
 
 
 ## 💡 Inspiration
